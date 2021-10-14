@@ -1,0 +1,11 @@
+name: dev
+dependencies:
+  - numpy
+  - numba
+  - scipy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipython
+  - jupyterlab
